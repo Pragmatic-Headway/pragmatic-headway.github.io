@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14 18 66 54" role="img" aria-label="Símbolo do Senda">
+  <!-- O caminho já andado (traço), o que falta (pontos) e a criança (o ponto). -->
+  <path d="M18,66 C32,66 30,44 44,44" fill="none" stroke="#F6F4EE" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="54.19" cy="37.8" r="2.4" fill="#F6F4EE"/>
+  <circle cx="60.43" cy="27.32" r="2.4" fill="#F6F4EE"/>
+  <circle cx="70" cy="22" r="2.4" fill="#F6F4EE"/>
+  <circle cx="44" cy="44" r="7" fill="#E8B04A"/>
+</svg>
